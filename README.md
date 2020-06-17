@@ -1,4 +1,4 @@
-# pricing-component
+# vue-js-intro
 
 ## Project setup
 ```
