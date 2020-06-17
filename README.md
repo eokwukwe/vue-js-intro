@@ -1,4 +1,4 @@
-# vue-js-intro
+# [vue-js-intro](https://eokwukwe.github.io/vue-js-intro/)
 
 ## Project setup
 ```
